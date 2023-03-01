@@ -18,10 +18,10 @@ export const piecesTranslations = {
             w: "White", b: "Black"
         },
         pieces: {
-            p: "p", n: "n", b: "b", r: "r", q: "q", k: "k"
+            p: "p", n: "n", b: "b", r: "r", q: "q", k: "k", w: "w", c: "c"
         },
         pieces_long: {
-            p: "Pawn", n: "Knight", b: "Bishop", r: "Rook", q: "Queen", k: "King"
+            p: "Pawn", n: "Knight", b: "Bishop", r: "Rook", q: "Queen", k: "King", w: "Bomb", c: "candy"
         }
     },
     de: {
@@ -32,10 +32,10 @@ export const piecesTranslations = {
             w: "Weiß", b: "Schwarz"
         },
         pieces: {
-            p: "b", n: "s", b: "l", r: "t", q: "d", k: "k"
+            p: "b", n: "s", b: "l", r: "t", q: "d", k: "k", w: "w", c: "c"
         },
         pieces_long: {
-            p: "Bauer", n: "Springer", b: "Läufer", r: "Turm", q: "Dame", k: "König"
+            p: "Bauer", n: "Springer", b: "Läufer", r: "Turm", q: "Dame", k: "König", w: "Bombe", c: "Bonbon"
         }
     }
 }
